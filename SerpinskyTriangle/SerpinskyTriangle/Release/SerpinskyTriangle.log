@@ -1,0 +1,6 @@
+﻿  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+E:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(108): warning C4172: возвращение адреса локальной или временной переменной : currentPos
+  All 185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SerpinskyTriangle.vcxproj -> E:\term3\SerpinskyTriangle\Release\SerpinskyTriangle.exe

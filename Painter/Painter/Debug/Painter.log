@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\term3\Painter\Painter\FingerDetect.hpp(220,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\term3\Painter\Painter\FingerDetect.hpp(221,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\term3\Painter\Painter\FingerDetect.hpp(222,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\term3\Painter\Painter\FingerDetect.hpp(293,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Painter.vcxproj -> D:\term3\Painter\Debug\Painter.exe

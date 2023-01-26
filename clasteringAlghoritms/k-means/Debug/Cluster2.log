@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(53,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(62,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(77,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(92,22): warning C4244: return: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(111,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(135,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(159,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(166,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(171,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(180,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(185,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Cluster2.vcxproj -> C:\Users\Илья\source\repos\Cluster2\Debug\Cluster2.exe

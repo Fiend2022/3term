@@ -1,0 +1,5 @@
+﻿  FingerDetect.cpp
+D:\term3\Painter\Painter\FingerDetect.hpp(2,10): fatal error C1083: Не удается открыть файл включение: opencv2/imgproc.hpp: No such file or directory,
+  Source.cpp
+D:\term3\Painter\Painter\Source.cpp(1,10): fatal error C1083: Не удается открыть файл включение: opencv2/imgproc.hpp: No such file or directory,
+  Создание кода...

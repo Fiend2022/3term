@@ -1,0 +1,36 @@
+﻿  main.cpp
+E:\trash\game\game\GamesField.hpp(40,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\trash\game\game\GamesField.hpp(53,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\trash\game\game\GamesField.hpp(65,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\trash\game\game\GamesField.hpp(84,31): warning C4018: <: несоответствие типов со знаком и без знака
+E:\trash\game\game\Siamon.hpp(54,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\trash\game\game\game.hpp(130,73): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+E:\trash\game\game\game.hpp(130,47): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+E:\trash\game\game\game.hpp(131,77): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+E:\trash\game\game\game.hpp(131,49): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+E:\trash\game\game\buttonsField.hpp(44,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\trash\game\game\buttonsField.hpp(42): message : во время компиляции функции-члена класс шаблон "void ButtonsField<Difficulties,3>::draw(sf::RenderWindow &,sf::Event &,bool)"
+E:\trash\game\game\main.cpp(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ButtonsField<Difficulties,3>::draw(sf::RenderWindow &,sf::Event &,bool)"
+E:\trash\game\game\main.cpp(20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ButtonsField<Difficulties,3>"
+E:\trash\game\game\buttonsField.hpp(30,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\trash\game\game\buttonsField.hpp(22): message : во время компиляции функции-члена класс шаблон "ButtonsField<Difficulties,3>::ButtonsField(const std::string &,const std::string &,const std::string &,const std::string &,const sf::Vector2f &,size_t,std::string)"
+E:\trash\game\game\main.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "ButtonsField<Difficulties,3>::ButtonsField(const std::string &,const std::string &,const std::string &,const std::string &,const sf::Vector2f &,size_t,std::string)"
+  player.cpp
+  Создание кода...
+  game.vcxproj -> E:\trash\game\Debug\game.exe

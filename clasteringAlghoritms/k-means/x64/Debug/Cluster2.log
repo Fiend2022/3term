@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(92,22): warning C4244: return: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(148,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(151,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(153,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Илья\source\repos\Cluster2\Cluster2\Source.cpp(157,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Users\Илья\source\repos\Cluster2\x64\Debug\Cluster2.exe для записи

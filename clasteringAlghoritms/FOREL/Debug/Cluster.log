@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Илья\source\repos\Cluster\Cluster\Source.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster\Cluster\Source.cpp(42,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster\Cluster\Source.cpp(52,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster\Cluster\Source.cpp(61,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster\Cluster\Source.cpp(85,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster\Cluster\Source.cpp(99,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Cluster\Cluster\Source.cpp(108,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Cluster.vcxproj -> C:\Users\Илья\source\repos\Cluster\Debug\Cluster.exe
